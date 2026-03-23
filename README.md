@@ -1,4 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙝𝙖𝙢𝙚𝙙 𝘼𝙙𝙚𝙡 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Discipline%20%26%20Consistency-The%20real%20magic%20behind%20every%20great%20developer-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohamed-adel-4b6752259)
 [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/YourUsername)

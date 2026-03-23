@@ -1,66 +1,73 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")]
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙈𝙤𝙝𝙖𝙢𝙚𝙙 𝘼𝙙𝙚𝙡 👋
 
-# Hi there, I'm Mohamed Adel 👋
-
-💻 I'm a passionate **React.js Developer** from Egypt 🇪🇬  
-🚀 I build modern, responsive, and scalable web applications  
-🔥 Always learning new technologies and improving my skills  
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohamed-adel-4b6752259)
+[![](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)](https://github.com/YourUsername)
 
 ---
 
-## 🔗 Connect with me
+💻 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-adel-4b6752259
-- 🐙 GitHub: https://github.com/YourUsername
+⚛️ 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓  
 
----
+🚀 Passionate about building modern, responsive web applications  
 
-## 🛠️ Technologies & Tools
-
-### 👨‍💻 Frontend
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=2bbc8a)
-
-### ⚡ React Skills
-![](https://img.shields.io/badge/State-Redux-informational?style=flat&logo=redux&color=2bbc8a)
-![](https://img.shields.io/badge/Routing-React_Router-informational?style=flat&logo=react-router&color=2bbc8a)
-![](https://img.shields.io/badge/API-REST-informational?style=flat&color=2bbc8a)
-
-### ⚙️ Backend & Tools
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=2bbc8a)
+🔥 Always learning & improving my skills  
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
 
-🚧 Coming Soon... (Add your best React projects here)
+💡 Passionate about turning ideas into real projects  
+⚡ Focused on Frontend & aiming to become Full Stack  
+🤝 Love working in teams and sharing knowledge  
+📚 Constantly learning new technologies  
+
+---
+
+## 🚧 Currently Working On
+
+🚀 Building React projects  
+📌 Improving UI/UX skills  
+⚡ Learning advanced React concepts  
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Core
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+
+### ⚛️ Frontend
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+
+### ⚡ Styling
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+### ☁️ Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/YourUsername">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" />
-</a>
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula)
 
 ---
 
-## ✍️ About Me
+## ⭐️ Featured Projects
 
-- 💡 I enjoy building interactive UI with React  
-- 🔥 Focused on Frontend & aiming to become Full Stack  
-- ⚡ Experienced with APIs & dynamic web apps  
-- 📚 Always learning and improving  
+🚧 Add your best React projects here (VERY IMPORTANT)
 
 ---
 
-⭐️ From [Mohamed Adel](https://github.com/YourUsername)
+🔥 From [Mohamed Adel](https://github.com/YourUsername)
